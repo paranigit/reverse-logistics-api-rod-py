@@ -3,3 +3,4 @@
 .odo/odo-file-index.json
 env/
 **.pyc
+set_env_variables.sh
